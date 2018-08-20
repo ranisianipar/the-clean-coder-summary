@@ -4,6 +4,7 @@
 
 ### Contributor
 * Alfian
+* Nuzha
 
 ### Content:
 * [Degree of failure](#degree-of-failure)
@@ -42,3 +43,64 @@ Tentunya penulis punya mentor lain. Adalah seorang tetangga yang baik hati yang 
 &nbsp;&nbsp;&nbsp;&nbsp;Penulis pernah dipecat dari pabrik automasi pada tahun 1976. Meskipun penulis secara teknis sangat kompeten, tapi penulis tidak memberi perhatian terhadap hal non-teknis seperti deadline dan bahkan ia pernah melupakan demo yang harus ia lakukan, dan meninggalkan sistem yang rusak, sehingga ia mendapat surat peringatan dari bosnya.</br>
 Dengan surat peringatan itu penulis mulai mencoba memperbaiki kesalahannya namun semua itu sudah terlambat, karna selanjutnya apapun kesalahan kecil penulis akan dianggap kesalahan besar, sehingga pada akhirnya penulis dipecat./br>
 &nbsp;&nbsp;&nbsp;&nbsp;Penulis menjadikan pengalaman tersebut sebagai pembelajaran untuk pekerjaan selanjutnya, dan pada akhirnya penulis tetap survive, namun pasti akan lebih baik jika penulis punya seseorang yang mengajarnya, seseorang yang bisa diobservasi ketika penulis membantu orang itu dengan hal kecil, dan seseorang yang mereview dan membimbing pekerjaan awal penulis. Seseorang yang menjadi model dan mengajar penulis nilai yang cocok dan menjadi gambaran. Seorang sensei, seorang master dan seorang mentor.</br>
+
+### _APPRENTICESHIP_
+Dalam ilmu medis, mereka tidak semata-mata mengambil seorang fresh graduate dan dengan 
+spontan meletakkannya pada ruang operasi. Untuk memastikan para lulusan mendapatkan 
+edukasi terbaik, terdapat suatu tradisi yang dinamakan intense on-the-job-training. 
+Secara garis besar, program ini memberikan kesempatan pada lulusan baru untuk belajar 
+dan berlatih dahulu kepada profesional di bidangnya sebelum pada akhirnya lulus 
+sertifikasi dan terjun langsung ke lapangan. Tentu dalam dunia IT hal ini pun berlaku. 
+Kita tidak bisa begitu saja memberi suatu project kepada lulusan muda dan 
+mempertaruhkan hal yang besar di dalamnya. Meskipun rata-rata penyebab kegagalan 
+disebabkan oleh bugs, namun perusahaan kerap kehilangan finansial akibat kurangnya 
+pelatihan pada software developer mereka. Melihat banyaknya aspek kehidupan yang 
+bergantung pada keberlangsungan dunia IT, memberikan pelatihan dan praktik-praktik 
+yang dibimbing oleh profesional dirasa pantas dan sangat masuk akal.
+
+Jadi, bagaimanakah seharusnya software apprenticeship itu? Tantangan apa saja yang 
+perlu lulusan muda temui untuk mencapai profesionalisme? Dibagi dalam 3 stase, 
+software developer terdiri atas masters, journeymen, dan apprentices/interns. 
+Masters adalah mereka yang telah mengambil alih lebih dari satu project yang signifikan dan 
+biasanya telah mengabdikan dirinya kurang lebih 10 tahun pengalaman. Mereka telah 
+menguasai banyak sistem, bahasa, OS, dan mengerti bagaimana caranya untuk memimpin. 
+Mereka adalah orang yang dipercayai tanggung jawab besar oleh suatu perusahaan.
+Journeymen adalah programmer yang telah terlatih, kompeten, dan antusias. Mereka 
+terbiasa untuk bekerja dalam tim dan perlahan-lahan memimpinnya. Meski sangat mahir 
+dengan teknologi, namun biasanya mereka hanya andal dalam satu sistem, bahasa, dan OS. 
+Posisi ini biasanya didapat setelah 5 tahun pengalaman. Dalam kesehariannya, mereka 
+masih didampingi oleh masters, namun lama-kelamaan akan bertransisi menjadi teman 
+sejawat.
+Apprentices/interns adalah lulusan perguruan tinggi yang baru saja memulai karirnya. 
+Interns sangat diawasi oleh journeymen. Biasanya masih belum diberi tugas apa-apa dan 
+hanya berperan sebagai asisten journeymen. Dalam kurun waktu rata-rata setahun, mereka 
+belajar dan membentuk ikatan dengan journeymen dan apabila journeymen merasa mereka 
+telah siap, masters akan mereview dan memutuskan apakah mereka dapat bergabung menjadi 
+journeymen atau tidak.
+
+Pada kenyataannya, semua tidak begitu berbeda dari apa yang kita harapkan. Lulusan 
+muda diawasi oleh pimpinan tim, yang diawasi oleh pimpinan project, dan sebagainya. 
+Yang menjadi masalah adalah pada kebanyakan perusahaan hampir tidak ada pengawasan 
+teknis sama sekali. Apa yang kita lakukan hari ini seharusnya berfokus pada 
+pembelajaran teknis, pelatihan, pengawasan, dan review. Yang kurang dari pendekatan 
+sementara kita saat ini adalah kepedulian para tetua untuk mengajar dan mendidik para 
+lulusan muda.
+
+### _CRAFTSMANSHIP_
+Apa yang dimaksud craftsmanship? Craftsman sendiri adalah seorang profesional yang 
+bekerja cepat namun tidak tergesa-gesa, memiliki estimasi yang masuk akal dan 
+berkomitmen. Craftsmanship adalah prinsip yang dipegang oleh craftsman, yang berisi 
+nilai-nilai, disiplin, teknik, perilaku, dan solusi. Craftsmanship diajarkan secara 
+turun temurun dari yang tua ke yang muda, diperoleh lewat teman sejawat lewat 
+observasi dan pembelajaran.
+Kita tidak dapat meyakinkan seseorang untuk menjadi craftsmen. Craftsmanship bersifat 
+menular, hanya apabila observable. Kita dapat menjadi craftsman, kemudian 
+menginspirasi sesama untuk menjadi craftsman, dan biarkan sisanya mengikuti.
+
+### _CONCLUSION_
+Bangku sekolah dapat mengajarkan teori, namun tidak dapat memberikan disiplin, 
+praktik, dan kemampuan untuk menjadi craftsman. Hal tersebut dicapai lewat pendidikan 
+dan pengawasan profesional dalam jangka waktu tertentu. Sudah saatnya kita menghadapi 
+fakta bahwa membimbing generasi baru adalah tanggung jawab kita, bukan perguruan 
+tinggi. Sudah saatnya kita untuk menyediakan program berwujud apprenticeship, 
+internship, dan pembimbingan jangka lama.
