@@ -44,7 +44,7 @@ Tentunya penulis punya mentor lain. Adalah seorang tetangga yang baik hati yang 
 Dengan surat peringatan itu penulis mulai mencoba memperbaiki kesalahannya namun semua itu sudah terlambat, karna selanjutnya apapun kesalahan kecil penulis akan dianggap kesalahan besar, sehingga pada akhirnya penulis dipecat./br>
 &nbsp;&nbsp;&nbsp;&nbsp;Penulis menjadikan pengalaman tersebut sebagai pembelajaran untuk pekerjaan selanjutnya, dan pada akhirnya penulis tetap survive, namun pasti akan lebih baik jika penulis punya seseorang yang mengajarnya, seseorang yang bisa diobservasi ketika penulis membantu orang itu dengan hal kecil, dan seseorang yang mereview dan membimbing pekerjaan awal penulis. Seseorang yang menjadi model dan mengajar penulis nilai yang cocok dan menjadi gambaran. Seorang sensei, seorang master dan seorang mentor.</br>
 
-### _APPRENTICESHIP_
+### APPRENTICESHIP
 Dalam ilmu medis, mereka tidak semata-mata mengambil seorang fresh graduate dan dengan 
 spontan meletakkannya pada ruang operasi. Untuk memastikan para lulusan mendapatkan 
 edukasi terbaik, terdapat suatu tradisi yang dinamakan intense on-the-job-training. 
@@ -86,7 +86,7 @@ pembelajaran teknis, pelatihan, pengawasan, dan review. Yang kurang dari pendeka
 sementara kita saat ini adalah kepedulian para tetua untuk mengajar dan mendidik para 
 lulusan muda.
 
-### _CRAFTSMANSHIP_
+### CRAFTSMANSHIP
 Apa yang dimaksud craftsmanship? Craftsman sendiri adalah seorang profesional yang 
 bekerja cepat namun tidak tergesa-gesa, memiliki estimasi yang masuk akal dan 
 berkomitmen. Craftsmanship adalah prinsip yang dipegang oleh craftsman, yang berisi 
@@ -97,7 +97,7 @@ Kita tidak dapat meyakinkan seseorang untuk menjadi craftsmen. Craftsmanship ber
 menular, hanya apabila observable. Kita dapat menjadi craftsman, kemudian 
 menginspirasi sesama untuk menjadi craftsman, dan biarkan sisanya mengikuti.
 
-### _CONCLUSION_
+### CONCLUSION
 Bangku sekolah dapat mengajarkan teori, namun tidak dapat memberikan disiplin, 
 praktik, dan kemampuan untuk menjadi craftsman. Hal tersebut dicapai lewat pendidikan 
 dan pengawasan profesional dalam jangka waktu tertentu. Sudah saatnya kita menghadapi 
