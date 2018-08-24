@@ -93,3 +93,39 @@ Setelah 10 tahun bekerja, sekarang waktu yang saya habiskan untuk debugging suda
 ### Being Late
 &nbsp;&nbsp;&nbsp;&nbsp;Terlambat adalah kejadian terburuk yang terjadi pada sisi terbaik kita. Kita sering memeperkirakan sesuatu dengan baik, tapi pada akhirnya terlambat. Cara terbaik mengatasinya adalah pahami diri dan bersikap terbuka, jujurlah akan kemampuan anda dalam suatu tenggak waktu, jangan memasukkan harapan pada perkiraan anda.
 </br>
+
+#### Hope
+&nbsp;&nbsp;&nbsp;&nbsp;Harapan dapat menjadi perusak keadaan, penghancur perencanaan dan peruntuh reputasi. Biarkan orang untuk mengerti situasi dari batas waktu proyek dan situasi kita. Jangan biarkan mereka berharap hanya situasi baik saja yang akan terjadi.
+</br>
+
+#### Rushing
+&nbsp;&nbsp;&nbsp;&nbsp;Tergesa-gesa menjadi sesuatu yang tidak baik. Keteneangan merupakan suatu sikap yang perlu kita miliki saat mengambil keputusan. Pertimbangkan baik-baik langkah yang akan kita ambil. Kita dapat memilih pilihan-pilihan dengan konsekuensi yang berbeda pula. Kita harus memiliki sikap integritas. Jangan "di-monitoring"(dipaksa) oleh orang lain, dalam melakukan sesuatu. Pertimbangkan berbagai hal tanpa ada tekanan (pressure) orang lain, saat kita mengambil langkah yang memang ingin kita ambil. Kita memilki pilihan, bukan keharusan.
+</br>
+
+#### Overtime
+&nbsp;&nbsp;&nbsp;&nbsp;Kerja lembur terkadang perlu dan bermanfaat. Kita dapat memaksimalkan kerja lembur kita untuk melakukan sesuatu yang harusnya kita lakukan di kemudian hari. Kita harusnya tidak setuju lembur, jika kita dapat menanganinya secara pribadi, kemudian dalam jangka waktu yang singkat dam pimpinan kita memiliki rencana baik jika pada kasus lembur kita gagal.  Saat pimpinan kita meminta untuk lembur, maka di harus memberikan alasan yang jelas, mengapa kita harus lembur. 
+</br>
+
+#### False Delivery
+&nbsp;&nbsp;&nbsp;&nbsp;Perilaku mengatakan sudah selesai, tetapi sebenarnya belum selesai merupakan suatu perilaku yang sangat tidak profesional. Saat kita meyakinkan diri kita bahwa sudah cukup, maka itu akan meyakinkan kita untuk bisa menunda pekerjaan. Ini akan berkelanjutan. Seorang programmer melakukannya, yang lain akan mengikuti. Itu akan mudah selesai, saat kita tidak melakukan apa-apa. Ketika tim terjebak akan hal tersebut, pimpinan mendengar semuanya baik-baik saja. Tida ada orang yang melihat bahwa tim sudah mengejar deadline dan situasinya tidak baik. 
+</br>
+
+#### Define “Done”
+&nbsp;&nbsp;&nbsp;&nbsp;Testing telebih dahulu harus kita lakukan sebelum melakukan pendefinisian kata selesai dalam tugas kita. Testing, haruslah dimengerti oleh para stakeholder dan mitra kerja kita, dilaksanakan secara terus menerus(berkali-kali) dan juga ditulis dalam bahasa pemrograman testing, seperti RobotFX, Selenium, Cucumber dan sebagainya.
+</br>
+
+### Help
+&nbsp;&nbsp;&nbsp;&nbsp;Bantuan sangat penting bagi seorang programmer. Saat kita mengetahui suatu hal, namun kita akan terus berlanjut untuk mengetahui hal-hal lain tentang suatu hal tersebut. Programming sangat sulit, tidak peduli seberapa baik kemampuan kita, kita pasti akan mendapat keuntungan dari pemikiran dan ide dari Programmer ataupun orang lain Semuanya akan lebih baik jika kita bekerja bersama orang lain untuk memahami dan belajar bersama. Pengalaman orang lain akan sangat berguna bagi peningkatan kemampuan kita.
+</br>
+
+#### Helping Others
+&nbsp;&nbsp;&nbsp;&nbsp;Pekerjaan kita menjadi idak penting, saat kita tidak dapat memberi waktu dan pikiran kita untuk membantu teman kita. Akan menjadi suatu kerhormatan apabila kita bisa membantu teman kita. Kita harus bisa membagi waktu antara waktu sendiri dan bersama orang lain. Kita harus sadar akan hal itu. Saat melihat orang lain kesususaan, kita harus menawarkan pertolongan. Ini tidak berarti kita harus lebih pintar dari dia, tapi seberapa segar pemikiran kita untuk menyelasaikan masalah. Ketika kita memnbantu orang, kita akan mendapat lebig banyak dari apa yang telah kita ajarkan/berikan kepadanya.
+</br>
+
+#### Being Helped
+&nbsp;&nbsp;&nbsp;&nbsp;Saat diberi pertolongan, kita harus menerimanya dengan senang dan terbuka. Sama seperti ketersediaan kita menawarka bantuan, kita juga harus merasa terhormat jika diberikan bantuan kepada orang lain dan berikan rasa terima kasih. Belajar untuk meminta bantuan. Saat bersama tim, jangan malu untuk meminta bantuan.
+</br>
+
+#### Mentoring
+&nbsp;&nbsp;&nbsp;&nbsp;Melatih programmer-programmer yang belum berpengalaman merupakan tanggung jawab bagi mereka yang memiliki lebi banyak pengalaman. Pelatihan/kursus dan membaca buku tidak bisa diabaikan. Tidak ada yang bisa menjadikan seorang sofware developer muda pada tingkatan prestasi yang tinggi, jika tidak dirinya sendiri dan keefektifan guru(menotoring dari senior). Maka, senior programmer memberukan bimbingan kepada programmer yang lebih muda dan programmer yang lebih muda juga haruslah berusaha untuk menemukan mentor dari senior mereka. Keduanya harus bersinergi, bekerja sesuai dengan etika profesional.
+</br>
