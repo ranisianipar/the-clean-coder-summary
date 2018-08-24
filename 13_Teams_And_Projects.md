@@ -35,6 +35,6 @@ bahwa satu proyek lebih diprioritaskan daripada proyek
 lainnya, maka proyek tersebut harus dapat mengalokasikan
 sumber daya dengan cepat.
 </br>
-###CONCLUSION
+### CONCLUSION
 &nbsp;&nbsp;&nbsp;&nbsp;
 Tim lebih sulit dibangun daripada proyek. Oleh karena itu, lebih baik membentuk tim persisten yang bergerak bersama dari satu proyek ke proyek berikutnya dan dapat mengambil lebih dari satu proyek dalam satu waktu.
