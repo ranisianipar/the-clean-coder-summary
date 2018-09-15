@@ -1,0 +1,54 @@
+# The Clean Coder
+## Chapter 3
+## Saying Yes
+
+### Introduction
+Semua orang pasti pernah merasakan tekanan yang disebabkan oleh waktu yang diberikan orang lain untuk mengerjakan sesuatu hal.
+Hal ini tentunya sering dialami seorang programmer, seorang programmer yang profesioanl akan menangani ini dengan tenang dan menimbang segala tanggung jawab serta keadaan yang ada.
+Terkadang, jika kita diberikan suatu pekerjaan yang menyebabkan kita mengalami hal seperti ini tidak selamanya kita akan mengatakan TIDAK untuk pekerjaan yang diberikan.
+Tentu kata TIDAK adalah kata yang menegaskan bahwa pekerjaan tersebut memang benar-benar tidak bisa kita lakukan dan membantu kita untuk bersikap profesional dalam mengambil sebuah pekerjaan.
+Tetapi, sebuah institusi tidak selalu berjalan mulus sesuai jadwal yang dibuat akan ada hal yang harus memang diselesaikan dan beresiko tinggi jika tidak dikerjakan secepatnya.
+Tentu kata TIDAK adalah bukan jawaban yang tepat. Disaat seperti inilah kata IYA merupakan jawaban yang tepat tentunya dengan diiringi dengan komitmen yang akan kita lakukan demi menyelesaikannya.
+
+### A Language of Commitment
+Mengatakan IYA dalam pekerjaan yang kita sadari sulit untuk kita lakukan memang merupakan hal yang berat.
+Tetapi mengerjakan pekerjaan yang kita sadari sulit untuk kita lakukan dengan berkomitmen tentunya akan mengubah "sulit" menjadi "mungkin".
+Terdapat tiga tahapan dalam melakukan sebuah komitmen.
+	1. Katakan "Aku akan melakukannya".
+	2. Bersungguh-sungguh.
+	3. Benar-benar melakukannya.
+Sayangnya, sebuah komitmen masih dianggap sebuah wacana yang tidak akan pernah terjadi.
+Untuk menghindari pemikiran ini, komitmen yang kita buat akan benar-benar kita lakukan hanya dengan mengubah kata yang kita gunakan untuk berkomitmen.
+Komitmen yang lemah akan berbunyi seperti berikut.
+	- Butuh/Harus. Contoh: "Saya butuh menurunkan berat badan" atau "Saya harus menyelesaikan pekerjaan ini".
+	- Berharap. Contoh: "Saya berharap tugas ini selesai besok".
+	- Ayo (Tidak diikuti subject). Contoh: "Ayo selesaikan pekerjaan ini".
+Kata-kata tersebut adalah kata yang biasa kita lantunkan diasaat kita berkomitmen.
+Komitmen yang lemah akan menjadi kuat hanya dengan menambahkan keterangan waktu yang spesifik kapan kita menyelesaikan tugas tersebut.
+Tunjukkan bahwa kitalah satu-satunya pemegang kontrol dari komitmen yang kita buat.
+Berkomitmen tidaklah berbicara kemungkinan atau harapan yang akan bergantung pada kejadian atau keadaan yang akan terjadi dalam pengerjaannya.
+Komitmen adalah kehendak kita tanpa dipengaruhi hal yang tidak kita tentukan. Maka komitmen yang kuat akan berbunyi.
+"Saya butuh menurunkan berat badan 2 kg sampai hari senin" atau "Saya sudah harus menyelesaikan pekerjaan ini hingga pukul 10:00 malam".
+Jika kita sudah menguasai kata yang membuat komitmen kita kuat maka ini akan membantu kita melawati tahan ke-2 dan ke-3.
+Selain kata yang kita gunakan dalam berkomitmen, komitmen kita akan lemah jika kita berfikir seperti berikut.
+	- Bergantung kepada orang lain. Contoh: "Saya tidak akan siap mengerjakannya jika X belum menyelesaikan bagiannya
+	- Ragu. Contoh: "Ini tidak akan selesai dikarnakan saya ragu untuk yakin bahwa ini akan selesai"
+	- Tidak berkeinginan penuh. Contoh "Ini tidak akan selesai dikarnakan terkadang memang tidak akan selesai"
+Jadi mengatur kata dalam kalimat komitmen akan membantu kita menyelesaikan tugas yang sudah kita komitkan. 
+
+### Learning How to Say Yes
+1. Mencoba
+	Menjawab pertanyaan yang memiliki jawaban tidak pasti tentu itu adalah kebalikan dari komitmen.
+	Tetapi, seorang profesional akan menanganinya dengan jawaban "mungkin, mungkin tidak".
+	Mengapa ?, menunjukkan kejujuran pada pertanyaan yang memiliki jawaban tidak pasti akan membuahkan hasil yang lebih tepat.
+	Begitu juga dengan menjawab pertanyaan biner yang memiliki jawaban tidak pasti. tunjukkanlah kejujuran dalam jawaban agar mendapatkan hasil yang tepat jua.
+2. Disiplin
+	Tetapi, jika kita selalu menolak dengan alasan yang memang apa adanya dikarnakan kita jujur diasaat sebuah kondisi genting terjadi tentu bukanlah tipe seorang profesional bertindak.
+	Seorang profesional akan mencari cara lain dengan melihat segala kosekuensinya dan berkata IYA pada pertanyaan tersebut.
+	Profesional tahu batas mereka, meraka tahu berapa banyak waktu yang mereka punya dan mereka tahu berapa biaya yang akan ditanggung (akibat).
+	Tidak hanya kata IYA yang diberikan, seorang profesional akan memberitahukan segala kemungkinan kata IYA itu akan terwujud dengan pasti.
+
+### Conclusion
+Profesional tidak diwajibkan untuk mengatakan ya untuk semua yang diminta dari mereka.
+Namun, mereka harus bekerja keras untuk menemukan cara-cara kreatif untuk membuat kata ya itu terwujud.
+Ketika para profesional mengatakan ya, mereka menggunakan bahasa komitmen sehingga tidak diragukan lagi tentang apa yang telah mereka janjikan.
